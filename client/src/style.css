@@ -1,0 +1,13 @@
+div {
+  background-color: rgb(174, 255, 0);
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
